@@ -1,9 +1,9 @@
 #imprimir com final diferente
-print("meu nome é", end=" ")
+print("meu nome é", end=' ')
 print("fernanda")
 
 #imprimir com separador
-print("meu", "nome", "é", "fernanda", sep="-")
+print("meu", "nome", "é", "fernanda", sep='-')
 
 #imprimir aspas
 print("fernanda \"lopes\"")
